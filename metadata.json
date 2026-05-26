@@ -1,0 +1,6 @@
+{
+  "name": "Barokah Printing",
+  "description": "Aplikasi interaktif Barokah Printing untuk hitung harga cetak, konsultasi, pesan instan via WhatsApp, dan petunjuk peta lokasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
